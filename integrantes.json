@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Orlando",
+    "apellido": "Perez",
+    "dni": "12345678",
+    "mail": "orlandoperez@gmail.com"
+  },
+  {
+    "nombre": "Ignacio",
+    "apellido": "Gonzalez",
+    "dni": "40885789",
+    "mail": "ignacio97@gmail.com"
+  },
+  {
+    "nombre": "Edgardo",
+    "apellido": "Rodriguez",
+    "dni": "32384766",
+    "mail": "edgardoernestorodriguez@gmail.com"
+  }
+]
